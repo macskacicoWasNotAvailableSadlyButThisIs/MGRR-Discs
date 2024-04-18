@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MGRRDiscs",
+  "name": "MGRR Discs",
+  "description": "This mod removes HurtResistant time from every damage source, with the exception of lava, cactus, void, inFire, suffication(from blocks). also, this only applies to non-Player mobs",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["macskacico"],
+  "credits": "macskacico",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

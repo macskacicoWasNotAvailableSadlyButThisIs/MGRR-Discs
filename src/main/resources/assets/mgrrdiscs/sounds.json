@@ -1,0 +1,16 @@
+{
+"records.rules_of_nature": {"category": "record","sounds": [{"name": "records.rules_of_nature","stream": true}]},
+"records.dark_skies": {"category": "record","sounds": [{"name": "records.dark_skies","stream": true}]},
+"records.im_my_own_master_now": {"category": "record","sounds": [{"name": "records.im_my_own_master_now","stream": true}]},
+"records.a_stranger_i_remain": {"category": "record","sounds": [{"name": "records.a_stranger_i_remain","stream": true}]},
+"records.return_to_ashes": {"category": "record","sounds": [{"name": "records.return_to_ashes","stream": true}]},
+"records.the_stains_of_time": {"category": "record","sounds": [{"name": "records.the_stains_of_time","stream": true}]},
+"records.red_sun": {"category": "record","sounds": [{"name": "records.red_sun","stream": true}]},
+"records.a_soul_cant_be_cut": {"category": "record","sounds": [{"name": "records.a_soul_cant_be_cut","stream": true}]},
+"records.the_only_thing_i_know_for_real": {"category": "record","sounds": [{"name": "records.the_only_thing_i_know_for_real","stream": true}]},
+"records.the_hot_wind_blowing": {"category": "record","sounds": [{"name": "records.the_hot_wind_blowing","stream": true}]},
+"records.collective_consciousness": {"category": "record","sounds": [{"name": "records.collective_consciousness","stream": true}]},
+"records.it_has_to_be_this_way": {"category": "record","sounds": [{"name": "records.it_has_to_be_this_way","stream": true}]},
+"records.the_war_still_rages_within": {"category": "record","sounds": [{"name": "records.the_war_still_rages_within","stream": true}]}
+
+}
